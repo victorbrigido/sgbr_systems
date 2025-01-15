@@ -70,7 +70,7 @@ Erro Cannot find module:
 Certifique-se de que todas as dependências estão instaladas corretamente:
 ```bash
 npm install
-`
+```
 Aplicativo não inicia no simulador:
 
 Verifique se o simulador está em execução antes de iniciar o projeto.
